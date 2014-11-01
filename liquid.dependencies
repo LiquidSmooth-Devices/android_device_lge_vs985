@@ -1,0 +1,38 @@
+[
+  {
+    "remote": "lsd",
+    "repository": "android_device_lge_g3-common",
+    "target_path": "device/lge/g3-common",
+    "revision": "kitkat"
+  },
+  {
+    "remote": "lsd",
+    "repository": "android_vendor_lge_g3",
+    "target_path": "vendor/lge/g3",
+    "revision": "kitkat"
+  },
+  {
+    "remote": "lsd",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "kitkat"
+  },
+  {
+    "remote": "lsd",
+    "repository": "kernel_lge_msm8974ac",
+    "target_path": "kernel/lge/msm8974ac",
+    "revision": "kitkat"
+  },
+  {
+    "remote": "gh",
+    "repository": "SlimRoms/hardware_qcom_display-caf-new",
+    "target_path": "hardware/qcom/display-caf-new",
+    "revision": "kk4.4"
+  },
+  {
+    "remote": "gh",
+    "repository": "SlimRoms/hardware_qcom_media-caf-new",
+    "target_path": "hardware/qcom/media-caf-new",
+    "revision": "kk4.4"
+  }
+]
