@@ -13,7 +13,7 @@
   },
   {
     "remote": "lsd",
-    "repository": "kernel_lge_msm8974ac",
+    "repository": "android_kernel_lge_msm8974ac",
     "target_path": "kernel/lge/msm8974ac",
     "revision": "kitkat"
   },
